@@ -316,7 +316,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/shivashish23/shell-lens?style=for-the-badge&color=00FF88&labelColor=0A0A0A&logo=github)](https://github.com/PrShivashish/shell-lens)
 [![Docker Pulls](https://img.shields.io/docker/pulls/shivashish23/shellens-ai?style=for-the-badge&color=00FF88&labelColor=0A0A0A&logo=docker)](https://hub.docker.com/r/shivashish23/shellens-ai)
 
 <br/>
