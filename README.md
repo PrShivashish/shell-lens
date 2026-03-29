@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./logo.png" alt="Shell Lens Logo" width="300"/>
+  <h1>Shell Lens</h1>
+<div align="center">
 
 <br/>
 
